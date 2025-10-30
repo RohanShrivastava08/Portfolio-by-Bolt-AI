@@ -1,14 +1,14 @@
 # ⚡ Portfolio by Bolt AI – A Next-Gen Developer Showcase
 
-- A futuristic, minimal, and blazing-fast portfolio crafted to represent a developer’s personality, skill set.
-  
-- Projects in the most captivating way — built using React, Vite, TypeScript, Tailwind CSS, Framer Motion, and EmailJS.
-
 ![Screenshot (189)](https://github.com/user-attachments/assets/e9646c52-e4a3-40c3-a43d-ff0dc3a70e17)
 
 ![Screenshot (190)](https://github.com/user-attachments/assets/b5314bc5-faa5-418d-8622-af3c5f11b20e)
 
 ![Screenshot (191)](https://github.com/user-attachments/assets/a74d6975-6da8-42a8-871d-e71b94001e09)
+
+- A futuristic, minimal, and blazing-fast portfolio crafted to represent a developer’s personality, skill set.
+  
+- Projects in the most captivating way — built using React, Vite, TypeScript, Tailwind CSS, Framer Motion, and EmailJS.
 
 
 ## 📋 Table of Contents
